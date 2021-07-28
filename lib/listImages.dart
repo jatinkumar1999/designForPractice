@@ -1,0 +1,25 @@
+import 'package:minmal_design/modals/user.dart';
+
+List<User> users = [
+  User("assets/images/pic.jpg"),
+  User("assets/images/pic1.jpg"),
+  User("assets/images/pic2.jpg"),
+  User("assets/images/pic3.jpg"),
+  User("assets/images/pic4.jpg"),
+  User("assets/images/pic5.jpg"),
+  User("assets/images/pic6.jpg"),
+  User("assets/images/pic.jpg"),
+  User("assets/images/pic1.jpg"),
+  User("assets/images/pic2.jpg"),
+  User("assets/images/pic3.jpg"),
+  User("assets/images/pic4.jpg"),
+  User("assets/images/pic5.jpg"),
+  User("assets/images/pic6.jpg"),
+  User("assets/images/pic.jpg"),
+  User("assets/images/pic1.jpg"),
+  User("assets/images/pic2.jpg"),
+  User("assets/images/pic3.jpg"),
+  User("assets/images/pic4.jpg"),
+  User("assets/images/pic5.jpg"),
+  User("assets/images/pic6.jpg"),
+];
